@@ -1,2 +1,4 @@
 # WEBDEV1PROJECT
-this is the project for code louisville web dev 1. I had to delete the original repository because I did not know what I was doing.
+This is a mock page for a auto repair shop. It is to display what I have learned through the Code Louisville Web Development 1 Course.
+
+
